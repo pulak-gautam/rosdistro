@@ -3772,6 +3772,18 @@ repositories:
       url: https://github.com/micro-ROS/micro_ros_msgs.git
       version: humble
     status: maintained
+  micro_ros_agent:
+    doc:
+      type: git
+      url: https://github.com/micro-ROS/micro-ROS-Agent.git
+      version: humble
+    release:
+      url: https://github.com/micro-ROS/micro-ROS-Agent.git
+    source:
+      type: git
+      url: https://github.com/micro-ROS/micro-ROS-Agent.git
+      version: humble
+    status: maintained
   microstrain_inertial:
     doc:
       type: git
