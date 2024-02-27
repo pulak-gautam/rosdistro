@@ -1,0 +1,2 @@
+ardupilot_msgs:
+  ubuntu: [ros-humble-ardupilot-msgs]
