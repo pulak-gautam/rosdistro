@@ -3,4 +3,4 @@ ardupilot_msgs:
 micro_ros_agent:
   ubuntu: [vulcanexus-humble-micro]
 ardupilot_gazebo:
-  ubuntu: [ros-humble-ardupilot_gazebo]
+  ubuntu: [ros-humble-ardupilot-gazebo]
