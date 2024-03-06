@@ -1,2 +1,4 @@
 ardupilot_msgs:
   ubuntu: [ros-humble-ardupilot-msgs]
+micro_ros_agent:
+  ubuntu: [vulcanexus-humble-micro]
