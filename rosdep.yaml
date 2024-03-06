@@ -4,3 +4,15 @@ micro_ros_agent:
   ubuntu: [vulcanexus-humble-micro]
 ardupilot_gazebo:
   ubuntu: [ros-humble-ardupilot-gazebo]
+ardupilot_sitl:
+  ubuntu: [ros-humble-ardupilot-sitl]
+ardupilot_gz_gazebo:
+  ubuntu: [ros-humble-ardupilot-gz-gazebo]
+ardupilot_sitl_models:
+  ubuntu: [ros-humble-ardupilot-sitl-models]
+ardupilot_gz_description:
+  ubuntu: [ros-humble-ardupilot-gz-description]
+ros_gz_bridge:
+  ubuntu: [ros-humble-ros-gzgarden-bridge]
+ros_gz_sim:
+  ubuntu: [ros-humble-ros-gzgarden-sim]
